@@ -15,19 +15,26 @@ I'm a software engineer from India, learning new things together @ LinkedIn - ht
 
 ### Who am I ??
 
-Currently an Integrated MCA student passionate about software development, data management, and emerging technologies.
-Excited to apply theoretical knowledge to real-world challenges. Actively seeking opportunities in SDE.
+Enthusiastic and detail-oriented Integrated MCA student with a strong foundation in software development, data management, and emerging technologies. 
+Passionate about applying theoretical knowledge to solve real-world challenges through innovative solutions. 
+Seeking an opportunity as a Java Full Stack Developer to leverage skills in Java, HTML, CSS, JavaScript, and frameworks like React,Spring and Hibernate, while contributing to impactful projects in a collaborative team environment.
 
 ## My skills 📜
 
 ### Languages
 
+- J2EE Certified Developer
+  ([Universal Informatics Certified](https://www.linkedin.com/in/siddharth-kar-460b471a4/))
+- Advance Java Certified Developer
+  ([Universal Informatics Certified](https://www.linkedin.com/in/siddharth-kar-460b471a4/))
 - Java Certified Developer
   ([Universal Informatics Certified](https://www.linkedin.com/in/siddharth-kar-460b471a4/))
 - C / C++ Certified Developer
   ([Universal Informatics Certified](https://www.linkedin.com/in/siddharth-kar-460b471a4/))
-- HTML, CSS, JavaScript
-- MySQL
+- HTML, CSS, JavaScript, Bootstrap, JQuery
+  ([Udemy Certified](https://www.udemy.com/certificate/UC-e61ee3fa-0254-4761-96e6-72f0ca2c9bb0/))
+- MySQL, PostGreSQL & MongoDB
+- Google Cloud, AWS, Docker, Jenkins, Git
 
 
 ### Productivity utilities
@@ -48,10 +55,11 @@ Excited to apply theoretical knowledge to real-world challenges. Actively seekin
 
 ## What I'm currently learning 📚
 
-- Integrated Masters of Computer ( 4th Semester )
-- Web Application using Java
-- Data Structures Algorithm
-- Java Full Stack Development
+- Integrated Masters of Computer ( 5th Semester )
+- Data Structures Algorithm using Java
+- SpringFramework & Microservices
+- RESTFul API
+  
 
 
 </details>
